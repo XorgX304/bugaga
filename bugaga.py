@@ -75,5 +75,5 @@ def main():
 	KB = shellGenName()
 	preLoad(iface, LHOST, LPORT, RHOST, GATEWAY, KB)
 
-print(' #\tAuthor: GH0$t\t#\n')
+print(' #\tAuthor: GH0st3rs\t#\n')
 if __name__ == "__main__": main()
